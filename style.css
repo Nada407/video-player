@@ -42,6 +42,7 @@ body,.video-controls,.video-timer ,.options {
 
 .container.fullscreen {
     border-radius: 0;
+    display:flex;
 }
   .container.fullscreen .wrapper::before {
     bottom: 0;
